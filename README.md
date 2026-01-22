@@ -1,16 +1,19 @@
-### Hi there 👋
+**Hi there** 👋
 
-<!--
-**fcuisin/fcuisin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Developer with **3+ years of experience**, focused on building impactful, product-driven web applications.
 
-Here are some ideas to get you started:
+🛠 **Tech stack**
+- Frontend: TypeScript, JavaScript (ES6+), React, Next.js
+- Backend: Node.js, MongoDB, PostgreSQL, RESTful APIs
+- Tooling: Docker, Prisma, Jest
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📈 Currently exploring advanced Next.js patterns
+
+🧠 **Mindset**
+- Product-oriented & results-focused  
+- Empathetic communicator & fast learner  
+- Agile, adaptable, and resilient  
+
+🎯 Main focus: Turning ideas into scalable solutions while growing both technically and personally.
+
+
