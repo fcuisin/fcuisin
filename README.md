@@ -7,7 +7,7 @@
 - Backend: Node.js, MongoDB, PostgreSQL, RESTful APIs
 - Tooling: Docker, Prisma, Jest
 
-📈 Currently exploring advanced Next.js patterns
+📈 Currently exploring Angular
 
 🧠 **Mindset**
 - Product-oriented & results-focused  
